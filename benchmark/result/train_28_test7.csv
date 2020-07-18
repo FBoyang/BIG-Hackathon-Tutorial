@@ -1,0 +1,9 @@
+,SIR_mse_rel_err,UW_MLE_rel_err,UW_weight_rel_err,county,test,train
+0,0.98,0.01,0.16,Bergen,7.0,28.0
+1,0.99,0.24,0.1,Cook,7.0,28.0
+2,0.99,0.6,0.32,Los Angeles,7.0,28.0
+3,0.98,0.2,0.02,Nassau,7.0,28.0
+4,1.0,0.27,0.05,New York City,7.0,28.0
+5,0.96,0.25,0.11,Suffolk,7.0,28.0
+6,0.95,0.15,0.11,Wayne,7.0,28.0
+7,0.92,0.28,0.11,Westchester,7.0,28.0
